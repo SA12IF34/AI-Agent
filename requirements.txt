@@ -12,4 +12,4 @@ langgraph-checkpoint-sqlite==2.0.6
 langgraph-prebuilt==0.1.8
 langgraph-sdk==0.1.66
 typing_extensions==4.12.2
-environ
+django-environ
